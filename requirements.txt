@@ -1,0 +1,6 @@
+sgp4
+pandas
+numpy
+scikit-learn
+matplotlib
+requests
